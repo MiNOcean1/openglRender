@@ -1,0 +1,6 @@
+.vs/
+out/
+output/
+asset/
+assets/
+thirdParty/lib/assimp-vc143-mtd.lib
